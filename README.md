@@ -110,8 +110,18 @@ php artisan serve
 ```
 
 ### 🖼️ Preview Antarmuka
-| Halaman   | Tampilan                                                             |
-| --------- | -------------------------------------------------------------------- |
-| Dashboard | ![Index Page](https://via.placeholder.com/300x150?text=Index+Page)   |
-| Tambah    | ![Create Page](https://via.placeholder.com/300x150?text=Create+Page) |
-| Detail    | ![Show Page](https://via.placeholder.com/300x150?text=Show+Page)     |
+**1. Halaman Utama (Daftar Barang):**
+![Halaman Utama](https://github.com/WahyuMiwap/crud_php_laravel_miwa/blob/main/dashboard.png) 
+
+**2. mengisi barang (Menambhakan barang):**
+![tambah barang](https://github.com/WahyuMiwap/crud_php_laravel_miwa/blob/main/form_add_stock1.png) 
+
+**3.tampilan halaman utama setelah menambahkan barang (Daftar baarang):**
+![Daftar barang](https://github.com/WahyuMiwap/crud_php_laravel_miwa/blob/main/after_add_stock.png) 
+
+**4. menghapus barang (hapus barang):**
+![hapus barang](https://github.com/WahyuMiwap/crud_php_laravel_miwa/blob/main/Delete_laravel.png) 
+
+**5. Melihat barang lebih jelas (Lihat barang):**
+![Lihat barang](https://github.com/WahyuMiwap/crud_php_laravel_miwa/blob/main/view_laravel.png) 
+
